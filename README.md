@@ -1,2 +1,2 @@
 # MLP-fetal-health
-Multiclass Classification - FETAl HEALTH PREDICTION
+Multiclass Classification - FETAL HEALTH PREDICTION
